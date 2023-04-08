@@ -103,15 +103,15 @@ The patient's personal and health information are stored in a secure database. T
 
 ## FUTURE INCORPORATIONS
 
-### 1) TELEMEDICINE INTEGRATION
+### 1) Telemedicine integration
 
 This could allow users to consult with healthcare professionals remotely.
 
-### 2) EXPANSION OF DISEASE COVERAGE
+### 2) Expansion of disease coverage
 
 Expansion to cover a wider range of diseases and conditions can allow more personalised risk assessments and symptom checking
 
-### 3) PERSONALISED HEALTH COACHING
+### 3) Personalised health coaching
 
 Development of personalised coaching plans and the integration of coaching features into the UI.
 
@@ -122,8 +122,11 @@ Team Name: Ode to Code
 Team Members:
 
 Advika Thakur- 1st Year, B.Tech AI-ML, IGDTUW (Email: adici2403@gmail.com, GitHub: https://github.com/A-dvika)
+
 Ayushi Dubey- 1st Year, B.Tech AI-ML, IGDTUW (Email: adayushi232@gmail.com, GitHub: https://github.com/dubeyayushi)
+
 Monya Mehta- 1st Year, B.Tech AI-ML, IGDTUW (Email: monyamehta2107@gmail.com, GitHub: https://github.com/monya217)
+
 Manasvi Jindal- 1st Year, B.Tech AI-ML, IGDTUW (Email: manasvijindal28@gmail.com, GitHub: https://github.com/manasvijindal)
 
 
