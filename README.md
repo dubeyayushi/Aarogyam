@@ -82,7 +82,7 @@ Accuracy: 95.1%
 UI of Aarogyam is built using Flutter owing to its cross-platform development capabilities, fast development cycle, customizable widgets, high performance, community support, and scalability.
 
 
-## KEY FEATURES OF AAROGYAN
+## KEY FEATURES OF AAROGYAM
 
 ### 1) Disease Prediction
 
