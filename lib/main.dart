@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:my_project/views/api.dart';
 import 'package:my_project/views/diabetes.dart';
 import 'package:my_project/views/diseaselist.dart';
 import 'package:my_project/views/doctor.dart';
 import 'package:my_project/views/signingin.dart';
 import 'package:my_project/views/stroke.dart';
-import 'package:my_project/views/sample.dart';
+
 
 
 void main() {
